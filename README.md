@@ -15,6 +15,8 @@
 .responsive design for deifferent sized screens
 
 Screenshot of the UI
+![image](https://github.com/user-attachments/assets/79cd796d-88be-4d30-844c-41c043c3ca38)
+
 
 
 
